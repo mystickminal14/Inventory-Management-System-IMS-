@@ -1,0 +1,11 @@
+{
+  "name": "inventorymanagementsys",
+  "version": "1.0.0",
+  "description": "This is a multibranch inventory management system for any  mart or supermarket. This software allows the shope  owner to get track of their products, emoplyee and branch manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

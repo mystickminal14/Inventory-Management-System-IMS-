@@ -1,0 +1,1 @@
+So this is a inventroy management system for any convenient store having multiple branches. This software allows them to track their monthly sales, expenses, manage employee and also get track of stock, supplier and orders.
